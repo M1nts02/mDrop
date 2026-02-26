@@ -45,3 +45,8 @@ fastlane/test_output
 # Build products
 *.o
 *.linkfilelist
+
+# Distribution archives
+*.tar.gz
+*.zip
+mdrop-*/
